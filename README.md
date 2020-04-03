@@ -1,10 +1,13 @@
 # -#UnityBasic - RinKirin#-
 -------
-### Уроки по основным принципам и механикам разработки игр на Unity3D
-В данном репозитории вы найдете примеры работы с теми или иными механиками игрового движка. Для более подробного рассмотрения воспользуйтесь уроками на YouTube
+#### Уроки по основным принципам и механикам разработки игр на Unity3D
+
+В данном репозитории вы найдете примеры работы с теми или иными механиками игрового движка.
+Для более подробного рассмотрения воспользуйтесь уроками на YouTube
 
 Уроки в репозитории:
-<ul>
+   <ul>
      <li>Генерация объектов</li>
    </ul>
-<p><a href="https://www.youtube.com/user/AlfonseChanell/"><img src="https://camo.githubusercontent.com/26e504f04e5faf9c6d6a93e84c1f1c4515b0fbcb/68747470733a2f2f7669676e657474652e77696b69612e6e6f636f6f6b69652e6e65742f7268657474616e646c696e6b2f696d616765732f612f61662f596f75747562652e706e672f7265766973696f6e2f6c61746573743f63623d3230313430373132313731323437" alt="YouTube"></a></p>
+
+<p><a href="https://www.youtube.com/user/AlfonseChanell/videos?view_as=subscriber"><img src="https://vignette.wikia.nocookie.net/rhettandlink/images/a/af/Youtube.png/revision/latest?cb=20140712171247" alt="YouTube"></a></p>
