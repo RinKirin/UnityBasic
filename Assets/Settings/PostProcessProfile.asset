@@ -34,10 +34,10 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 2.77
+    value: 1.5
   threshold:
     overrideState: 1
-    value: 1
+    value: 0
   softKnee:
     overrideState: 0
     value: 0.5
@@ -75,12 +75,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
   m_Name: ColorGrading
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
   gradingMode:
-    overrideState: 0
+    overrideState: 1
     value: 1
   externalLut:
     overrideState: 0
@@ -139,14 +139,14 @@ MonoBehaviour:
     overrideState: 0
     value: 0
   mixerRedOutRedIn:
-    overrideState: 1
-    value: -200
+    overrideState: 0
+    value: 200
   mixerRedOutGreenIn:
-    overrideState: 1
+    overrideState: 0
     value: -10
   mixerRedOutBlueIn:
-    overrideState: 1
-    value: 200
+    overrideState: 0
+    value: -56.2
   mixerGreenOutRedIn:
     overrideState: 0
     value: 0
