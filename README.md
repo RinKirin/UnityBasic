@@ -7,7 +7,8 @@
 
 Уроки в репозитории:
    <ul>
-     <li>Генерация объектов</li>
+     <li>Создание террейна</li>
+     <li>Шейдер воды\лавы</li>
    </ul>
 
 <p><a href="https://www.youtube.com/user/AlfonseChanell/videos?view_as=subscriber"><img src="https://vignette.wikia.nocookie.net/rhettandlink/images/a/af/Youtube.png/revision/latest?cb=20140712171247" alt="YouTube"></a></p>
