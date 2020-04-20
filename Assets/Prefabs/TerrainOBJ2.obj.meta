@@ -10,6 +10,8 @@ ModelImporter:
     400002: Plane_Plane_None
     400004: //RootNode
     2100000: None
+    2100002: Plane.001_Plane.001_NoneMat
+    2100004: Plane_Plane_NoneMat
     2300000: Plane.001_Plane.001_None
     2300002: Plane_Plane_None
     3300000: Plane.001_Plane.001_None
